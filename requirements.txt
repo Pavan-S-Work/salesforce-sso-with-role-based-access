@@ -1,0 +1,9 @@
+streamlit
+streamlit-oauth
+requests
+pandas
+snowflake-snowpark-python
+pyarrow<19.0.0
+setuptools<81
+openai
+plotly
